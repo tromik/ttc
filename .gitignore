@@ -1,2 +1,7 @@
 Include/*
 *.pyc
+Scripts/*
+Lib/*
+tcl/*
+pip-selfcheck.json
+
